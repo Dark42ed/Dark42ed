@@ -1,4 +1,4 @@
 ## Dark42ed
 
-### About me
-Hey, I'm a programmer.
+Hey, I'm a programmer.<br>
+I sometimes do stuff, check me out [here](https://dark42ed.cf).
